@@ -1,0 +1,14 @@
+{
+  "extends": "@tsconfig/node18/tsconfig.json",
+  "allowSyntheticDefaultImports": true,
+  "declaration": true,
+  "declarationMap": true,
+  "noImplicitAny": false,
+  "noImplicitThis": true,
+  "noUnusedLocals": true,
+  "noUnusedParameters": true,
+  "removeComments": true,
+  "resolveJsonModule": true,
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules"]
+}
