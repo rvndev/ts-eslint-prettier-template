@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@tsconfig/node18": "^18.2.1",
     "@tsconfig/recommended": "^1.0.2",
     "@types/node": "^20.5.7",
     "@typescript-eslint/eslint-plugin": "^5.59.11",
